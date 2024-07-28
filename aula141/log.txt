@@ -1,0 +1,5 @@
+Sucess: Sucesso no acesso (LogFileMixin)
+Error: Falha no acesso (LogFileMixin)
+Sucess: Sucesso no acesso (LogFileMixin)
+Error: Falha no acesso (LogFileMixin)
+Sucess: Sucesso no acesso (LogFileMixin)
