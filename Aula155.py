@@ -27,6 +27,8 @@ class Foo:
     ...
     # herda de object
 
+# Foo = type('Foo',(object),{}) isso é a mesma coisa que uma Class
+
 f = Foo()
 # herda da classe foo
 print(isinstance(f,Foo))
