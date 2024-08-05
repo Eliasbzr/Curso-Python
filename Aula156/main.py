@@ -1,4 +1,6 @@
-import uma_linha
+# import uma_linha
+import varias_linhas
+
 
 # docstrings são variaveis que tem 3 aspas ''' """ sejam simples ou duplas
 
@@ -16,7 +18,7 @@ import uma_linha
 # print(uma_linha.__package__)
 
 
-help(uma_linha) #com a funcao help consigo ver tudo o que esta dentro do modulo
+help(varias_linhas) #com a funcao help consigo ver tudo o que esta dentro do modulo
 
 # NAME
 #     uma_linha
